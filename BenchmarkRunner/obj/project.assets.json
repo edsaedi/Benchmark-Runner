@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\BenchmarkRunner\\BenchmarkRunner\\BenchmarkRunner.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BenchmarkRunner\\BenchmarkRunner\\BenchmarkRunner.csproj",
       "projectName": "BenchmarkRunner",
-      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\BenchmarkRunner\\BenchmarkRunner\\BenchmarkRunner.csproj",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BenchmarkRunner\\BenchmarkRunner\\BenchmarkRunner.csproj",
       "packagesPath": "C:\\Users\\Edan.Saedi\\.nuget\\packages\\",
-      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\BenchmarkRunner\\BenchmarkRunner\\obj\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BenchmarkRunner\\BenchmarkRunner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

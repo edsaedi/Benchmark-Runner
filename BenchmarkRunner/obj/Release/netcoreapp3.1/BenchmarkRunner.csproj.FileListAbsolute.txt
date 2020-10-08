@@ -1,0 +1,8 @@
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\bin\Release\netcoreapp3.1\BenchmarkRunner.deps.json
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\bin\Release\netcoreapp3.1\BenchmarkRunner.dll
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\bin\Release\netcoreapp3.1\BenchmarkRunner.pdb
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\obj\Release\netcoreapp3.1\BenchmarkRunner.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\obj\Release\netcoreapp3.1\BenchmarkRunner.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\obj\Release\netcoreapp3.1\BenchmarkRunner.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\obj\Release\netcoreapp3.1\BenchmarkRunner.dll
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\BenchmarkRunner\BenchmarkRunner\obj\Release\netcoreapp3.1\BenchmarkRunner.pdb
